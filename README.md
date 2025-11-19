@@ -1,20 +1,50 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Abhishek M G - Personal Portfolio
 
-# Run and deploy your AI Studio app
+A cinematic, 3D-accelerated personal portfolio website built with React, Three.js, and Tailwind CSS.
 
-This contains everything you need to run your app locally.
+![Portfolio Preview](https://picsum.photos/800/400?grayscale)
 
-View your app in AI Studio: https://ai.studio/apps/drive/1JWJ1mVhIeqgA0Y-TvB2famPbfKhfX8c9
+## 🚀 Features
 
-## Run Locally
+- **Cinematic 3D Hero Section**: A complex "Big Bang" galaxy simulation using `Three.js` with volumetric nebulae, gravitational lensing, and dynamic particle physics.
+- **AI Chat Assistant**: Integrated Gemini AI chatbot that answers questions about my skills and experience (context-aware).
+- **Modern UI/UX**: Glassmorphism, bento-grid layouts, and smooth scroll reveals.
+- **Responsive Design**: Fully optimized for mobile and desktop.
 
-**Prerequisites:**  Node.js
+## 🛠️ Tech Stack
 
+- **Frontend**: React 19, TypeScript, Tailwind CSS
+- **3D Graphics**: Three.js, React Three Fiber concepts
+- **Animations**: CSS Keyframes, Custom Hooks
+- **AI Integration**: Google Gemini API
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🏃‍♂️ Running Locally
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
+   cd your-repo-name
+   ```
+
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Set up Environment Variables**
+   Create a `.env` file in the root directory and add your API key:
+   ```env
+   API_KEY=your_google_gemini_api_key_here
+   ```
+
+4. **Start the server**
+   ```bash
+   npm start
+   # or
+   npm run dev
+   ```
+
+## 📬 Contact
+
+- **Email**: abhishekmgabhishekmg726@gmail.com
+- **GitHub**: [abhi-abhi86](https://github.com/abhi-abhi86)
